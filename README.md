@@ -8,7 +8,7 @@ Welcome to my Data Engineering project repository. This collection demonstrates 
 
 | Project | Primary Focus | Key Technologies | Storage / Format |
 | :--- | :--- | :--- | :--- |
-| **[Real-Time E-Commerce Anomaly Engine](./Real-Time%20E-Commerce%20Anamoly%20Engine)** | Stream Processing & Fraud Detection | Python 3.14+, DuckDB, Polars, Faker | In-Memory & Partitioned Parquet |
+| **[Real-Time E-Commerce Anomaly Engine](./Real-Time%20E-Commerce%20Anomaly%20Engine)** | Stream Processing & Fraud Detection | Python 3.14+, DuckDB, Polars, Faker | In-Memory & Partitioned Parquet |
 | **[Automated Financial Market Ingestion Engine](./Automated%20Financial%20Market%20Ingestion%20Engine)** | High-Frequency Market ETL | Python, Polars (`rtcompat`), DuckDB, APIs | DuckDB OLAP Storage |
 | **[Enterprise Business Intelligence Data Warehouse](./Enterprise%20Business%20Intelligence%20Data%20Warehouse)** | Star Schema & Dimensional Modeling | DuckDB, Polars SQL, Kimball Methodology | Columnar Parquet Files |
 
@@ -27,8 +27,8 @@ Welcome to my Data Engineering project repository. This collection demonstrates 
 ```text
 Data Engineer Projects/
 │
-├── Real-Time E-Commerce Anamoly Engine/
-│   ├── Real-Time E-Commerce Anamoly Engine.ipynb
+├── Real-Time E-Commerce Anomaly Engine/
+│   ├── Real-Time E-Commerce Anomaly Engine.ipynb
 │   ├── data/parquet_lakehouse/
 │   └── README.md
 │
