@@ -39,7 +39,6 @@ Data Engineer Projects/
 │
 ├── Enterprise Business Intelligence Data Warehouse/
 │   ├── Enterprise Business Intelligence Data Warehouse.py
-│   ├── queries/
 │   └── README.md
 │
 └── README.md (Root)
