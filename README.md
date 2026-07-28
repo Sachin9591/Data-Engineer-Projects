@@ -33,12 +33,12 @@ Data Engineer Projects/
 │   └── README.md
 │
 ├── Automated Financial Market Ingestion Engine/
-│   ├── ingestion_engine.py
+│   ├── Automated Financial Market Ingestion Engine.py
 │   ├── data/
 │   └── README.md
 │
 ├── Enterprise Business Intelligence Data Warehouse/
-│   ├── build_warehouse.py
+│   ├── Enterprise Business Intelligence Data Warehouse.py
 │   ├── queries/
 │   └── README.md
 │
